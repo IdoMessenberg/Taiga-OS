@@ -1,9 +1,4 @@
-<figure>
-  <img
-  src="https://user-images.githubusercontent.com/118853278/214390539-1a7e685f-67cc-437c-9736-9233c3a9752d.png"
-  alt="The beautiful MDN logo."
-   width = 100>
-  <figcaption>MDN Logo</figcaption>
-</figure>
-
-#TAIGS OS
+<a href="https://aimeos.org/">
+    <img src="user-images.githubusercontent.com/118853278/214392198-1f39d3cf-e4a8-4a7c-a33b-af42b2555fe5.png" alt="Aimeos logo" title="logo" align="left" height="60" />
+</a>
+#TAIGA OS

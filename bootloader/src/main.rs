@@ -17,6 +17,7 @@ pub extern "C" fn efi_main(image :EFI_HANDLE, main_system_table :SYSTEM_TABLE) -
     }
 
     (ConsoleOutput.Reset)(ConsoleOutput,true);
+    (ConsoleOutput.SetMode)(ConsoleOutput,3);
     (ConsoleOutput.OutputString)(ConsoleOutput,buf.as_ptr());
 
     loop{}

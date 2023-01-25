@@ -9,4 +9,5 @@ A basic rust hobbyist OS made completely from scratch with no crates or librarie
 Currentlly it's just a simple Hello World bootloader i will continue to write this OS in my free time for the time being.
 
 Progress Image:
+
 ![Current Progress](/assets/screenshots/Screenshot_no1.png)
